@@ -1,0 +1,36 @@
+{"frames": {
+
+"life_potion":
+{
+	"frame": {"x":2,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"mana_potion":
+{
+	"frame": {"x":34,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"sight_potion":
+{
+	"frame": {"x":66,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "items-sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":98,"h":34},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b8695d78e2247984f8deb4b5cd6f9ba8:71334c47e8be2e1fd12fca47292f7459:4fa3be04e96d9b88bdbcd8f158c3ed06$"
+}
+}
