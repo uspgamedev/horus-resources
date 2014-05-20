@@ -1,6 +1,6 @@
 {"frames": {
 
-"blue_ball-0":
+"blue-ball-small":
 {
 	"frame": {"x":2,"y":2,"w":32,"h":32},
 	"rotated": false,
@@ -8,7 +8,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
 	"sourceSize": {"w":32,"h":32}
 },
-"blue_ball-1":
+"blue-ball":
 {
 	"frame": {"x":36,"y":2,"w":32,"h":32},
 	"rotated": false,
@@ -16,7 +16,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
 	"sourceSize": {"w":32,"h":32}
 },
-"green_ball-0":
+"green-ball-small":
 {
 	"frame": {"x":70,"y":2,"w":32,"h":32},
 	"rotated": false,
@@ -24,7 +24,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
 	"sourceSize": {"w":32,"h":32}
 },
-"green_ball-1":
+"green-ball":
 {
 	"frame": {"x":104,"y":2,"w":32,"h":32},
 	"rotated": false,
@@ -32,7 +32,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
 	"sourceSize": {"w":32,"h":32}
 },
-"yellow_ball-0":
+"yellow-ball-small":
 {
 	"frame": {"x":138,"y":2,"w":32,"h":32},
 	"rotated": false,
@@ -40,7 +40,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
 	"sourceSize": {"w":32,"h":32}
 },
-"yellow_ball-1":
+"yellow-ball":
 {
 	"frame": {"x":172,"y":2,"w":32,"h":32},
 	"rotated": false,
@@ -55,6 +55,6 @@
 	"format": "RGBA8888",
 	"size": {"w":206,"h":36},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:e41fcd2875660a4d96efcf81de387969:7d993bb2718c286e7187a977890e79cc:4b6192dbf71c20be7330b41c825d23c9$"
+	"smartupdate": "$TexturePacker:SmartUpdate:756e7bac9e0a0cf54b7a1ff7c37a8ba6:812806283376b99d7de59707f696b0c4:4b6192dbf71c20be7330b41c825d23c9$"
 }
 }
