@@ -371,10 +371,10 @@
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker ",
 	"version": "1.0",
-	"image": "mummy-blue-sheet.png",
+	"image": "pharaoh-sheet.png",
 	"format": "RGBA8888",
 	"size": {"w":1954,"h":428},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:c447c06ed29f0ff83e1acd769ee77eb8:b013bbfc032de72fe83e9f4b82a92733:f74f212f72d86eb74c50e7d0bb9201d5$"
+	"smartupdate": "$TexturePacker:SmartUpdate:3d6e2ae8026c4b4e710c3f8749821f5c:474eb9914a70aeff67939303ed249307:565092d9a6a5d9e2b121bcb96e0d33ee$"
 }
 }

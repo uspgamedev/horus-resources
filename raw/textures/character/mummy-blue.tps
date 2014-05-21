@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../resources/images/character/mummy-blue-sheet.json</filename>
+                <filename>../../../resources/images/character/mummy-blue-sheet.json</filename>
             </struct>
             <key>header</key>
             <struct type="DataFile">
