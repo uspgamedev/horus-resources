@@ -1,0 +1,10 @@
+{
+    "STANDING": {
+        "frames": [
+            {
+                "name": "vase"
+            }
+        ],
+        "period": 0.1
+    }
+}

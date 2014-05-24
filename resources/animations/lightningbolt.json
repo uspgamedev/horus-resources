@@ -1,0 +1,150 @@
+{
+    "STANDING_UP": {
+        "frames": [
+            {
+                "name": "lightningbolt-up-1"
+            },
+            {
+                "name": "lightningbolt-up-2"
+            },
+            {
+                "name": "lightningbolt-up-3"
+            },
+            {
+                "name": "lightningbolt-up-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_RIGHT": {
+        "frames": [
+            {
+                "name": "lightningbolt-right-1"
+            },
+            {
+                "name": "lightningbolt-right-2"
+            },
+            {
+                "name": "lightningbolt-right-3"
+            },
+            {
+                "name": "lightningbolt-right-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_DOWN": {
+        "frames": [
+            {
+                "name": "lightningbolt-down-1"
+            },
+            {
+                "name": "lightningbolt-down-2"
+            },
+            {
+                "name": "lightningbolt-down-3"
+            },
+            {
+                "name": "lightningbolt-down-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_UP_RIGHT": {
+        "frames": [
+            {
+                "name": "lightningbolt-upright-1"
+            },
+            {
+                "name": "lightningbolt-upright-2"
+            },
+            {
+                "name": "lightningbolt-upright-3"
+            },
+            {
+                "name": "lightningbolt-upright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_UP_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-upright-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-upright-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-upright-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-upright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_DOWN_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-downright-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-downright-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-downright-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-downright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-right-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-right-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-right-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "lightningbolt-right-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_DOWN_RIGHT": {
+        "frames": [
+            {
+                "name": "lightningbolt-downright-1"
+            },
+            {
+                "name": "lightningbolt-downright-2"
+            },
+            {
+                "name": "lightningbolt-downright-3"
+            },
+            {
+                "name": "lightningbolt-downright-4"
+            }
+        ],
+        "period": 0.4
+    }
+}

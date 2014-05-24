@@ -1,0 +1,431 @@
+{
+    "DYING": {
+        "frames": [
+            {
+                "name": "death-1"
+            },
+            {
+                "name": "death-2"
+            },
+            {
+                "name": "death-3"
+            },
+            {
+                "name": "death-4"
+            },
+            {
+                "name": "death-5"
+            },
+            {
+                "name": "death-6"
+            },
+            {
+                "name": "death-7"
+            }
+        ],
+        "period": 0.7
+    },
+    "TAKING_DAMAGE": {
+        "frames": [
+            {
+                "name": "death-1"
+            },
+            {
+                "name": "death-2"
+            },
+            {
+                "name": "death-3"
+            }
+        ],
+        "period": 0.3
+    },
+    "ATTACKING_UP_RIGHT": {
+        "frames": [
+            {
+                "name": "attack-upright-1"
+            },
+            {
+                "name": "attack-upright-2"
+            },
+            {
+                "name": "attack-upright-3"
+            },
+            {
+                "name": "attack-upright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_UP_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "walk-upright-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "ATTACKING_DOWN_RIGHT": {
+        "frames": [
+            {
+                "name": "attack-downright-1"
+            },
+            {
+                "name": "attack-downright-2"
+            },
+            {
+                "name": "attack-downright-3"
+            },
+            {
+                "name": "attack-downright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_DOWN_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "walk-downright-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "WALKING_UP_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "walk-upright-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-upright-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-upright-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-upright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "ATTACKING_DOWN_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "attack-downright-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-downright-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-downright-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-downright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "ATTACKING_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "attack-right-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-right-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-right-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-right-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "ATTACKING_UP_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "attack-upright-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-upright-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-upright-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "attack-upright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "WALKING_UP_RIGHT": {
+        "frames": [
+            {
+                "name": "walk-upright-1"
+            },
+            {
+                "name": "walk-upright-2"
+            },
+            {
+                "name": "walk-upright-3"
+            },
+            {
+                "name": "walk-upright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "WALKING_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "walk-right-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-right-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-right-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-right-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_DOWN": {
+        "frames": [
+            {
+                "name": "walk-down-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "STANDING_UP_RIGHT": {
+        "frames": [
+            {
+                "name": "walk-upright-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "ATTACKING_RIGHT": {
+        "frames": [
+            {
+                "name": "attack-right-1"
+            },
+            {
+                "name": "attack-right-2"
+            },
+            {
+                "name": "attack-right-3"
+            },
+            {
+                "name": "attack-right-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "WALKING_UP": {
+        "frames": [
+            {
+                "name": "walk-up-1"
+            },
+            {
+                "name": "walk-up-2"
+            },
+            {
+                "name": "walk-up-3"
+            },
+            {
+                "name": "walk-up-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "WALKING_DOWN_RIGHT": {
+        "frames": [
+            {
+                "name": "walk-downright-1"
+            },
+            {
+                "name": "walk-downright-2"
+            },
+            {
+                "name": "walk-downright-3"
+            },
+            {
+                "name": "walk-downright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_DOWN_RIGHT": {
+        "frames": [
+            {
+                "name": "walk-downright-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "SPAWNING": {
+        "frames": [
+            {
+                "name": "death-7"
+            },
+            {
+                "name": "death-6"
+            },
+            {
+                "name": "death-5"
+            },
+            {
+                "name": "death-4"
+            },
+            {
+                "name": "death-3"
+            },
+            {
+                "name": "death-2"
+            },
+            {
+                "name": "death-1"
+            }
+        ],
+        "period": 0.7
+    },
+    "WALKING_DOWN": {
+        "frames": [
+            {
+                "name": "walk-down-1"
+            },
+            {
+                "name": "walk-down-2"
+            },
+            {
+                "name": "walk-down-3"
+            },
+            {
+                "name": "walk-down-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_RIGHT": {
+        "frames": [
+            {
+                "name": "walk-right-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "ATTACKING_DOWN": {
+        "frames": [
+            {
+                "name": "attack-down-1"
+            },
+            {
+                "name": "attack-down-2"
+            },
+            {
+                "name": "attack-down-3"
+            },
+            {
+                "name": "attack-down-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "WALKING_DOWN_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "walk-downright-1"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-downright-2"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-downright-3"
+            },
+            {
+                "mirrorh": true,
+                "name": "walk-downright-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "ATTACKING_UP": {
+        "frames": [
+            {
+                "name": "attack-up-1"
+            },
+            {
+                "name": "attack-up-2"
+            },
+            {
+                "name": "attack-up-3"
+            },
+            {
+                "name": "attack-up-4"
+            }
+        ],
+        "period": 0.4
+    },
+    "STANDING_UP": {
+        "frames": [
+            {
+                "name": "walk-up-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "STANDING_LEFT": {
+        "frames": [
+            {
+                "mirrorh": true,
+                "name": "walk-right-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "WALKING_RIGHT": {
+        "frames": [
+            {
+                "name": "walk-right-1"
+            },
+            {
+                "name": "walk-right-2"
+            },
+            {
+                "name": "walk-right-3"
+            },
+            {
+                "name": "walk-right-4"
+            }
+        ],
+        "period": 0.4
+    }
+}

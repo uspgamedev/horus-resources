@@ -1,0 +1,250 @@
+{
+    "SWITCH_OFF": {
+        "frames": [
+            {
+                "name": "switch-start-1"
+            }
+        ],
+        "period": 0.1
+    },
+    "SWITCH_STOP": {
+        "frames": [
+            {
+                "name": "switch-stop-1"
+            },
+            {
+                "name": "switch-stop-2"
+            },
+            {
+                "name": "switch-stop-3"
+            },
+            {
+                "name": "switch-stop-4"
+            },
+            {
+                "name": "switch-stop-5"
+            },
+            {
+                "name": "switch-stop-6"
+            },
+            {
+                "name": "switch-stop-7"
+            },
+            {
+                "name": "switch-stop-8"
+            },
+            {
+                "name": "switch-stop-9"
+            },
+            {
+                "name": "switch-stop-10"
+            },
+            {
+                "name": "switch-stop-11"
+            },
+            {
+                "name": "switch-stop-12"
+            },
+            {
+                "name": "switch-stop-13"
+            },
+            {
+                "name": "switch-stop-14"
+            },
+            {
+                "name": "switch-stop-15"
+            },
+            {
+                "name": "switch-stop-16"
+            },
+            {
+                "name": "switch-stop-17"
+            },
+            {
+                "name": "switch-stop-18"
+            },
+            {
+                "name": "switch-stop-19"
+            },
+            {
+                "name": "switch-stop-20"
+            },
+            {
+                "name": "switch-stop-21"
+            },
+            {
+                "name": "switch-stop-22"
+            },
+            {
+                "name": "switch-stop-23"
+            },
+            {
+                "name": "switch-stop-24"
+            },
+            {
+                "name": "switch-stop-25"
+            },
+            {
+                "name": "switch-stop-26"
+            },
+            {
+                "name": "switch-stop-27"
+            },
+            {
+                "name": "switch-stop-28"
+            },
+            {
+                "name": "switch-stop-29"
+            },
+            {
+                "name": "switch-stop-30"
+            }
+        ],
+        "period": 1.0
+    },
+    "SWITCH_START": {
+        "frames": [
+            {
+                "name": "switch-start-1"
+            },
+            {
+                "name": "switch-start-2"
+            },
+            {
+                "name": "switch-start-3"
+            },
+            {
+                "name": "switch-start-4"
+            },
+            {
+                "name": "switch-start-5"
+            },
+            {
+                "name": "switch-start-6"
+            },
+            {
+                "name": "switch-start-7"
+            },
+            {
+                "name": "switch-start-8"
+            },
+            {
+                "name": "switch-start-9"
+            },
+            {
+                "name": "switch-start-10"
+            },
+            {
+                "name": "switch-start-11"
+            },
+            {
+                "name": "switch-start-12"
+            },
+            {
+                "name": "switch-start-13"
+            },
+            {
+                "name": "switch-start-14"
+            },
+            {
+                "name": "switch-start-15"
+            },
+            {
+                "name": "switch-start-16"
+            },
+            {
+                "name": "switch-start-17"
+            },
+            {
+                "name": "switch-start-18"
+            },
+            {
+                "name": "switch-start-19"
+            },
+            {
+                "name": "switch-start-20"
+            },
+            {
+                "name": "switch-start-21"
+            },
+            {
+                "name": "switch-start-22"
+            },
+            {
+                "name": "switch-start-23"
+            },
+            {
+                "name": "switch-start-24"
+            },
+            {
+                "name": "switch-start-25"
+            },
+            {
+                "name": "switch-start-26"
+            },
+            {
+                "name": "switch-start-27"
+            },
+            {
+                "name": "switch-start-28"
+            },
+            {
+                "name": "switch-start-29"
+            },
+            {
+                "name": "switch-start-30"
+            }
+        ],
+        "period": 1.0
+    },
+    "SWITCH_ON": {
+        "frames": [
+            {
+                "name": "switch-loop-1"
+            },
+            {
+                "name": "switch-loop-2"
+            },
+            {
+                "name": "switch-loop-3"
+            },
+            {
+                "name": "switch-loop-4"
+            },
+            {
+                "name": "switch-loop-5"
+            },
+            {
+                "name": "switch-loop-6"
+            },
+            {
+                "name": "switch-loop-7"
+            },
+            {
+                "name": "switch-loop-8"
+            },
+            {
+                "name": "switch-loop-9"
+            },
+            {
+                "name": "switch-loop-10"
+            },
+            {
+                "name": "switch-loop-11"
+            },
+            {
+                "name": "switch-loop-12"
+            },
+            {
+                "name": "switch-loop-13"
+            },
+            {
+                "name": "switch-loop-14"
+            },
+            {
+                "name": "switch-loop-15"
+            }
+        ],
+        "period": 0.5
+    }
+}

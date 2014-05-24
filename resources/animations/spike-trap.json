@@ -1,0 +1,249 @@
+{
+    "STANDING": {
+        "frames": [
+            {
+                "name": "spike-trap"
+            }
+        ],
+        "period": 0.1
+    },
+    "SPAWNING": {
+        "frames": [
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "position": [
+                    0.0,
+                    -200.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.2
+                ],
+                "position": [
+                    0.0,
+                    -195.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.4
+                ],
+                "position": [
+                    0.0,
+                    -185.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.6
+                ],
+                "position": [
+                    0.0,
+                    -160.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.8
+                ],
+                "position": [
+                    0.0,
+                    -140.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "position": [
+                    0.0,
+                    -115.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "position": [
+                    0.0,
+                    -85.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "position": [
+                    0.0,
+                    -50.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "position": [
+                    0.0,
+                    -10.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "position": [
+                    0.0,
+                    0.0
+                ],
+                "name": "spike-trap"
+            }
+        ],
+        "period": 0.2222222222222222
+    },
+    "DYING": {
+        "frames": [
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.9
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.8
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.7
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.6
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.5
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.4
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.3
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.2
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1
+                ],
+                "name": "spike-trap"
+            },
+            {
+                "color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "name": "spike-trap"
+            }
+        ],
+        "period": 0.36666666666666664
+    }
+}
