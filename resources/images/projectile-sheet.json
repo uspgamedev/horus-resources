@@ -26,7 +26,23 @@
 },
 "green-ball":
 {
-	"frame": {"x":104,"y":2,"w":32,"h":32},
+	"frame": {"x":2,"y":36,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"red-ball-small":
+{
+	"frame": {"x":36,"y":36,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"red-ball":
+{
+	"frame": {"x":70,"y":36,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -34,7 +50,7 @@
 },
 "yellow-ball-small":
 {
-	"frame": {"x":138,"y":2,"w":32,"h":32},
+	"frame": {"x":2,"y":70,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -42,7 +58,7 @@
 },
 "yellow-ball":
 {
-	"frame": {"x":172,"y":2,"w":32,"h":32},
+	"frame": {"x":36,"y":70,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -53,8 +69,8 @@
 	"version": "1.0",
 	"image": "projectile-sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":206,"h":36},
+	"size": {"w":104,"h":104},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:756e7bac9e0a0cf54b7a1ff7c37a8ba6:812806283376b99d7de59707f696b0c4:4b6192dbf71c20be7330b41c825d23c9$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f3782c6af3549440f7a176adb2c12d0f:f237cb297664d3d27b1711d1a6dc9b25:4b6192dbf71c20be7330b41c825d23c9$"
 }
 }
