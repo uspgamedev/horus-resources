@@ -1,0 +1,60 @@
+{"frames": {
+
+"altar":
+{
+	"frame": {"x":2,"y":2,"w":212,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":183},
+	"sourceSize": {"w":212,"h":183}
+},
+"closed-door":
+{
+	"frame": {"x":216,"y":2,"w":106,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":183},
+	"sourceSize": {"w":106,"h":183}
+},
+"dummy-spike-trap":
+{
+	"frame": {"x":324,"y":2,"w":106,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":159},
+	"sourceSize": {"w":106,"h":159}
+},
+"spike-trap":
+{
+	"frame": {"x":432,"y":2,"w":106,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":159},
+	"sourceSize": {"w":106,"h":159}
+},
+"stairs":
+{
+	"frame": {"x":540,"y":2,"w":153,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":109},
+	"sourceSize": {"w":153,"h":109}
+},
+"vase":
+{
+	"frame": {"x":695,"y":2,"w":106,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":106},
+	"sourceSize": {"w":106,"h":106}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "scenery-sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":803,"h":187},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0ab1765ecbe0b02a8c8ec971150bbc3f:e6f118383a5b34cbe69c88d0d5363eb8:7a69d5408de49a6af7e27bf9c8acf38f$"
+}
+}
