@@ -1,0 +1,19 @@
+
+# Pre-activated
+$SWITCH_OFF
+%name switch-start-1
+
+# Activating
+$SWITCH_START
+@fps 30
+%name switch-start-1 switch-start-2 switch-start-3 switch-start-4 switch-start-5 switch-start-6 switch-start-7 switch-start-8 switch-start-9 switch-start-10 switch-start-11 switch-start-12 switch-start-13 switch-start-14 switch-start-15 switch-start-16 switch-start-17 switch-start-18 switch-start-19 switch-start-20 switch-start-21 switch-start-22 switch-start-23 switch-start-24 switch-start-25 switch-start-26 switch-start-27 switch-start-28 switch-start-29 switch-start-30
+
+# Post-activated
+$SWITCH_ON
+@fps 30
+%name switch-loop-1 switch-loop-2 switch-loop-3 switch-loop-4 switch-loop-5 switch-loop-6 switch-loop-7 switch-loop-8 switch-loop-9 switch-loop-10 switch-loop-11 switch-loop-12 switch-loop-13 switch-loop-14 switch-loop-15
+
+# Deactivating
+$SWITCH_STOP
+@fps 30
+%name switch-stop-1 switch-stop-2 switch-stop-3 switch-stop-4 switch-stop-5 switch-stop-6 switch-stop-7 switch-stop-8 switch-stop-9 switch-stop-10 switch-stop-11 switch-stop-12 switch-stop-13 switch-stop-14 switch-stop-15 switch-stop-16 switch-stop-17 switch-stop-18 switch-stop-19 switch-stop-20 switch-stop-21 switch-stop-22 switch-stop-23 switch-stop-24 switch-stop-25 switch-stop-26 switch-stop-27 switch-stop-28 switch-stop-29 switch-stop-30
