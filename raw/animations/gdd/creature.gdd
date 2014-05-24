@@ -1,0 +1,93 @@
+
+# Creature animation descriptor file.
+
+$TAKING_DAMAGE
+%name death-1 death-2 death-3
+
+$DYING
+%name death-1 death-2 death-3 death-4 death-5 death-6 death-7
+
+$SPAWNING
+%name death-7 death-6 death-5 death-4 death-3 death-2 death-1
+
+$STANDING_UP
+%name walk-up-1
+
+$STANDING_UP_RIGHT
+%name walk-upright-1
+
+$STANDING_UP_LEFT
++effect [mirror h]
+%name walk-upright-1
+
+$STANDING_RIGHT
+%name walk-right-1
+
+$STANDING_LEFT
++effect [mirror h]
+%name walk-right-1
+
+$STANDING_DOWN_RIGHT
+%name walk-downright-1
+
+$STANDING_DOWN_LEFT
++effect [mirror h]
+%name walk-downright-1
+
+$STANDING_DOWN
+%name walk-down-1
+
+$WALKING_UP
+%name walk-up-1 walk-up-2 walk-up-3 walk-up-4
+
+$WALKING_UP_RIGHT
+%name walk-upright-1 walk-upright-2 walk-upright-3 walk-upright-4
+
+$WALKING_UP_LEFT
++effect [mirror h]
+%name walk-upright-1 walk-upright-2 walk-upright-3 walk-upright-4
+
+$WALKING_RIGHT
+%name walk-right-1 walk-right-2 walk-right-3 walk-right-4
+
+$WALKING_LEFT
++effect [mirror h]
+%name walk-right-1 walk-right-2 walk-right-3 walk-right-4
+
+$WALKING_DOWN_RIGHT
+%name walk-downright-1 walk-downright-2 walk-downright-3 walk-downright-4
+
+$WALKING_DOWN_LEFT
++effect [mirror h]
+%name walk-downright-1 walk-downright-2 walk-downright-3 walk-downright-4
+
+$WALKING_DOWN
+%name walk-down-1 walk-down-2 walk-down-3 walk-down-4
+
+# ===================
+$ATTACKING_UP
+%name attack-up-1 attack-up-2 attack-up-3 attack-up-4
+
+$ATTACKING_UP_RIGHT
+%name attack-upright-1 attack-upright-2 attack-upright-3 attack-upright-4
+
+$ATTACKING_UP_LEFT
++effect [mirror h]
+%name attack-upright-1 attack-upright-2 attack-upright-3 attack-upright-4
+
+$ATTACKING_RIGHT
+%name attack-right-1 attack-right-2 attack-right-3 attack-right-4
+
+$ATTACKING_LEFT
++effect [mirror h]
+%name attack-right-1 attack-right-2 attack-right-3 attack-right-4
+
+$ATTACKING_DOWN_RIGHT
+%name attack-downright-1 attack-downright-2 attack-downright-3 attack-downright-4
+
+$ATTACKING_DOWN_LEFT
++effect [mirror h]
+%name attack-downright-1 attack-downright-2 attack-downright-3 attack-downright-4
+
+$ATTACKING_DOWN
+%name attack-down-1 attack-down-2 attack-down-3 attack-down-4
