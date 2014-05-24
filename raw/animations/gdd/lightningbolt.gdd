@@ -1,0 +1,29 @@
+
+# Lightning animation descriptor file.
+
+$STANDING_RIGHT
+%name lightningbolt-right-1 lightningbolt-right-2 lightningbolt-right-3 lightningbolt-right-4
+
+$STANDING_DOWN_RIGHT
+%name lightningbolt-downright-1 lightningbolt-downright-2 lightningbolt-downright-3 lightningbolt-downright-4
+
+$STANDING_DOWN
+%name lightningbolt-down-1 lightningbolt-down-2 lightningbolt-down-3 lightningbolt-down-4
+
+$STANDING_DOWN_LEFT
++effect [mirror h]
+%name lightningbolt-downright-1 lightningbolt-downright-2 lightningbolt-downright-3 lightningbolt-downright-4
+
+$STANDING_LEFT
++effect [mirror h]
+%name lightningbolt-right-1 lightningbolt-right-2 lightningbolt-right-3 lightningbolt-right-4
+
+$STANDING_UP_LEFT
++effect [mirror h]
+%name lightningbolt-upright-1 lightningbolt-upright-2 lightningbolt-upright-3 lightningbolt-upright-4
+
+$STANDING_UP
+%name lightningbolt-up-1 lightningbolt-up-2 lightningbolt-up-3 lightningbolt-up-4
+
+$STANDING_UP_RIGHT
+%name lightningbolt-upright-1 lightningbolt-upright-2 lightningbolt-upright-3 lightningbolt-upright-4

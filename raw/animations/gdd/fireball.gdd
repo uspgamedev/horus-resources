@@ -1,0 +1,29 @@
+
+# Fireball animation descriptor file.
+
+$STANDING_RIGHT
+%name fireball-right-1 fireball-right-2 fireball-right-3 fireball-right-4 fireball-right-5 fireball-right-6 fireball-right-7 fireball-right-8
+
+$STANDING_DOWN_RIGHT
+%name fireball-downright-1 fireball-downright-2 fireball-downright-3 fireball-downright-4 fireball-downright-5 fireball-downright-6 fireball-downright-7 fireball-downright-8
+
+$STANDING_DOWN
+%name fireball-down-1 fireball-down-2 fireball-down-3 fireball-down-4 fireball-down-5 fireball-down-6 fireball-down-7 fireball-down-8
+
+$STANDING_DOWN_LEFT
++effect [mirror h]
+%name fireball-downright-1 fireball-downright-2 fireball-downright-3 fireball-downright-4 fireball-downright-5 fireball-downright-6 fireball-downright-7 fireball-downright-8
+
+$STANDING_LEFT
++effect [mirror h]
+%name fireball-right-1 fireball-right-2 fireball-right-3 fireball-right-4 fireball-right-5 fireball-right-6 fireball-right-7 fireball-right-8
+
+$STANDING_UP_LEFT
++effect [mirror h]
+%name fireball-upright-1 fireball-upright-2 fireball-upright-3 fireball-upright-4 fireball-upright-5 fireball-upright-6 fireball-upright-7 fireball-upright-8
+
+$STANDING_UP
+%name fireball-up-1 fireball-up-2 fireball-up-3 fireball-up-4 fireball-up-5 fireball-up-6 fireball-up-7 fireball-up-8
+
+$STANDING_UP_RIGHT
+%name fireball-upright-1 fireball-upright-2 fireball-upright-3 fireball-upright-4 fireball-upright-5 fireball-upright-6 fireball-upright-7 fireball-upright-8
