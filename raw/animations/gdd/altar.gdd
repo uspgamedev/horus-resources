@@ -11,7 +11,7 @@ $TAKING_DAMAGE
 $DYING
 +frame [name altar]
 +frame [name altar] [alpha .7] [position 5 -12]
-+frame [name altar] [alpha .4] [position 1- 8]
++frame [name altar] [alpha .4] [position 1 -8]
 +frame [name altar] [alpha .1] [position -10 -5]
 
 $SPAWNING
