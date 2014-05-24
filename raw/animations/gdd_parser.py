@@ -51,7 +51,7 @@ def transform_color(s):
     return (x >> 16) % 256, (x >> 8) % 256, x % 256
         
 valueparser = {
-    'number': lambda x: int(x),
+    'name': lambda x: x,
     'color': transform_color,
     'alpha': lambda x: float(x),
     'position': lambda x: map(float, x.split(' ')),
@@ -97,11 +97,11 @@ def parse_ring(input):
 def parse_chain(input):
     split = input.split(' ', 1)
     name = split[0]
-    assert(name == "number")
+    assert(name == "name")
     
-    for number in split[1].split(' '):
+    for name in split[1].split(' '):
         current_frame = copy.deepcopy(current_animation['effect'])
-        current_frame['number'] = int(number)
+        current_frame['name'] = name
         current_animation['frames'].append(current_frame)
         
 syntax_mapping = {
