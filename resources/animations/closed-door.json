@@ -1,655 +1,679 @@
 {
-    "STANDING": {
-        "frames": [
-            {
-                "name": "closed-door"
-            }
-        ],
-        "period": 0.1
-    },
-    "NONE": {
-        "frames": [
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0
-                ],
-                "name": "closed-door"
-            }
-        ],
-        "period": 0.5
-    },
-    "SPAWNING_LEFT": {
-        "frames": [
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -100.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.1
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -90.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.2
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -80.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.3
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -70.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.4
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -60.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.5
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -50.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.6
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -40.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.7
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -30.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.8
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -20.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.9
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -10.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "period": 0.36666666666666664
-    },
-    "STANDING_RIGHT": {
-        "frames": [
-            {
-                "mirrorh": true,
-                "name": "closed-door"
-            }
-        ],
-        "period": 0.1
-    },
-    "SPAWNING_RIGHT": {
-        "frames": [
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -100.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.1
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -90.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.2
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -80.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.3
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -70.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.4
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -60.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.5
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -50.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.6
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -40.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.7
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -30.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.8
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -20.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.9
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -10.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "period": 0.36666666666666664
-    },
-    "DYING_RIGHT": {
-        "frames": [
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.9
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -10.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.8
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -20.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.7
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -30.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.6
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -40.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.5
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -50.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.4
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -60.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.3
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -70.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.2
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -80.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.1
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -90.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0
-                ],
-                "mirrorh": true,
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -100.0
-                ]
-            }
-        ],
-        "period": 0.36666666666666664
-    },
-    "STANDING_LEFT": {
-        "frames": [
-            {
-                "name": "closed-door"
-            }
-        ],
-        "period": 0.1
-    },
-    "DYING_LEFT": {
-        "frames": [
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.9
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -10.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.8
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -20.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.7
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -30.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.6
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -40.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.5
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -50.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.4
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -60.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.3
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -70.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.2
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -80.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.1
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -90.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0
-                ],
-                "name": "closed-door",
-                "position": [
-                    0.0,
-                    -100.0
-                ]
-            }
-        ],
-        "period": 0.36666666666666664
-    }
+    "STANDING": [
+        {
+            "period": 0.1,
+            "name": "closed-door"
+        }
+    ],
+    "NONE": [
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "period": 0.5,
+            "name": "closed-door"
+        }
+    ],
+    "SPAWNING_LEFT": [
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "position": [
+                0.0,
+                -100.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.1
+            ],
+            "position": [
+                0.0,
+                -90.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.2
+            ],
+            "position": [
+                0.0,
+                -80.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.3
+            ],
+            "position": [
+                0.0,
+                -70.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.4
+            ],
+            "position": [
+                0.0,
+                -60.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "position": [
+                0.0,
+                -50.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.6
+            ],
+            "position": [
+                0.0,
+                -40.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.7
+            ],
+            "position": [
+                0.0,
+                -30.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.8
+            ],
+            "position": [
+                0.0,
+                -20.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.9
+            ],
+            "position": [
+                0.0,
+                -10.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "position": [
+                0.0,
+                0.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        }
+    ],
+    "STANDING_RIGHT": [
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "closed-door"
+        }
+    ],
+    "SPAWNING_RIGHT": [
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -100.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.1
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -90.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.2
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -80.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.3
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -70.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.4
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -60.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -50.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.6
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -40.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.7
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -30.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.8
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -20.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.9
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -10.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                0.0
+            ],
+            "mirrorh": true
+        }
+    ],
+    "DYING_RIGHT": [
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                0.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.9
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -10.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.8
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -20.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.7
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -30.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.6
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -40.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -50.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.4
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -60.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.3
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -70.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.2
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -80.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.1
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -90.0
+            ],
+            "mirrorh": true
+        },
+        {
+            "name": "closed-door",
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "period": 0.03333333333333333,
+            "position": [
+                0.0,
+                -100.0
+            ],
+            "mirrorh": true
+        }
+    ],
+    "STANDING_LEFT": [
+        {
+            "period": 0.1,
+            "name": "closed-door"
+        }
+    ],
+    "DYING_LEFT": [
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "position": [
+                0.0,
+                0.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.9
+            ],
+            "position": [
+                0.0,
+                -10.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.8
+            ],
+            "position": [
+                0.0,
+                -20.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.7
+            ],
+            "position": [
+                0.0,
+                -30.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.6
+            ],
+            "position": [
+                0.0,
+                -40.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "position": [
+                0.0,
+                -50.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.4
+            ],
+            "position": [
+                0.0,
+                -60.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.3
+            ],
+            "position": [
+                0.0,
+                -70.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.2
+            ],
+            "position": [
+                0.0,
+                -80.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.1
+            ],
+            "position": [
+                0.0,
+                -90.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "position": [
+                0.0,
+                -100.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "closed-door"
+        }
+    ]
 }

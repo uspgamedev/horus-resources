@@ -1,10 +1,8 @@
 {
-    "STANDING": {
-        "frames": [
-            {
-                "name": "vase"
-            }
-        ],
-        "period": 0.1
-    }
+    "STANDING": [
+        {
+            "period": 0.1,
+            "name": "vase"
+        }
+    ]
 }

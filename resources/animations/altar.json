@@ -1,418 +1,380 @@
 {
-    "DYING": {
-        "frames": [
-            {
-                "name": "altar"
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.7
-                ],
-                "name": "altar",
-                "position": [
-                    5.0,
-                    -12.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.4
-                ],
-                "name": "altar",
-                "position": [
-                    1.0,
-                    -8.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.1
-                ],
-                "name": "altar",
-                "position": [
-                    -10.0,
-                    -5.0
-                ]
-            }
-        ],
-        "period": 0.4
-    },
-    "TAKING_DAMAGE": {
-        "frames": [
-            {
-                "name": "altar"
-            },
-            {
-                "position": [
-                    5.0,
-                    -12.0
-                ],
-                "name": "altar"
-            },
-            {
-                "position": [
-                    1.0,
-                    -8.0
-                ],
-                "name": "altar"
-            },
-            {
-                "position": [
-                    -10.0,
-                    -5.0
-                ],
-                "name": "altar"
-            }
-        ],
-        "period": 0.2
-    },
-    "ATTACKING_UP_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_UP_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "ATTACKING_DOWN_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_DOWN_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "WALKING_UP_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "ATTACKING_DOWN_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "ATTACKING_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "ATTACKING_UP_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "WALKING_UP_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "WALKING_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_DOWN": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_UP_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "ATTACKING_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "WALKING_UP": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "WALKING_DOWN_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_DOWN_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "SPAWNING": {
-        "frames": [
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -100.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.1
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -90.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.2
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -80.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.3
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -70.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.4
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -60.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.5
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -50.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.6
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -40.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.7
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -30.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.8
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -20.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.9
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    -10.0
-                ]
-            },
-            {
-                "color": [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "name": "altar",
-                "position": [
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "period": 0.36666666666666664
-    },
-    "WALKING_DOWN": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "ATTACKING_DOWN": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "WALKING_DOWN_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "ATTACKING_UP": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_UP": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "STANDING_LEFT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    },
-    "WALKING_RIGHT": {
-        "frames": [
-            {
-                "name": "altar"
-            }
-        ],
-        "period": 0.1
-    }
+    "DYING": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.7
+            ],
+            "position": [
+                5.0,
+                -12.0
+            ],
+            "period": 0.1,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.4
+            ],
+            "position": [
+                1.0,
+                -8.0
+            ],
+            "period": 0.1,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.1
+            ],
+            "position": [
+                -10.0,
+                -5.0
+            ],
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "TAKING_DAMAGE": [
+        {
+            "period": 0.05,
+            "name": "altar"
+        },
+        {
+            "position": [
+                5.0,
+                -12.0
+            ],
+            "period": 0.05,
+            "name": "altar"
+        },
+        {
+            "position": [
+                1.0,
+                -8.0
+            ],
+            "period": 0.05,
+            "name": "altar"
+        },
+        {
+            "position": [
+                -10.0,
+                -5.0
+            ],
+            "period": 0.05,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_UP_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_UP_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_DOWN_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_DOWN_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "WALKING_UP_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_DOWN_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_UP_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "WALKING_UP_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "WALKING_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_DOWN": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_UP_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "WALKING_UP": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "WALKING_DOWN_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_DOWN_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "SPAWNING": [
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "position": [
+                0.0,
+                -100.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.1
+            ],
+            "position": [
+                0.0,
+                -90.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.2
+            ],
+            "position": [
+                0.0,
+                -80.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.3
+            ],
+            "position": [
+                0.0,
+                -70.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.4
+            ],
+            "position": [
+                0.0,
+                -60.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "position": [
+                0.0,
+                -50.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.6
+            ],
+            "position": [
+                0.0,
+                -40.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.7
+            ],
+            "position": [
+                0.0,
+                -30.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.8
+            ],
+            "position": [
+                0.0,
+                -20.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                0.9
+            ],
+            "position": [
+                0.0,
+                -10.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "position": [
+                0.0,
+                0.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "altar"
+        }
+    ],
+    "WALKING_DOWN": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_DOWN": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "WALKING_DOWN_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "ATTACKING_UP": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_UP": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "STANDING_LEFT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ],
+    "WALKING_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "altar"
+        }
+    ]
 }

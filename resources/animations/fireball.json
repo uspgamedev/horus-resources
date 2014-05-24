@@ -1,258 +1,298 @@
 {
-    "STANDING_UP": {
-        "frames": [
-            {
-                "name": "fireball-up-1"
-            },
-            {
-                "name": "fireball-up-2"
-            },
-            {
-                "name": "fireball-up-3"
-            },
-            {
-                "name": "fireball-up-4"
-            },
-            {
-                "name": "fireball-up-5"
-            },
-            {
-                "name": "fireball-up-6"
-            },
-            {
-                "name": "fireball-up-7"
-            },
-            {
-                "name": "fireball-up-8"
-            }
-        ],
-        "period": 0.8
-    },
-    "STANDING_RIGHT": {
-        "frames": [
-            {
-                "name": "fireball-right-1"
-            },
-            {
-                "name": "fireball-right-2"
-            },
-            {
-                "name": "fireball-right-3"
-            },
-            {
-                "name": "fireball-right-4"
-            },
-            {
-                "name": "fireball-right-5"
-            },
-            {
-                "name": "fireball-right-6"
-            },
-            {
-                "name": "fireball-right-7"
-            },
-            {
-                "name": "fireball-right-8"
-            }
-        ],
-        "period": 0.8
-    },
-    "STANDING_DOWN": {
-        "frames": [
-            {
-                "name": "fireball-down-1"
-            },
-            {
-                "name": "fireball-down-2"
-            },
-            {
-                "name": "fireball-down-3"
-            },
-            {
-                "name": "fireball-down-4"
-            },
-            {
-                "name": "fireball-down-5"
-            },
-            {
-                "name": "fireball-down-6"
-            },
-            {
-                "name": "fireball-down-7"
-            },
-            {
-                "name": "fireball-down-8"
-            }
-        ],
-        "period": 0.8
-    },
-    "STANDING_UP_RIGHT": {
-        "frames": [
-            {
-                "name": "fireball-upright-1"
-            },
-            {
-                "name": "fireball-upright-2"
-            },
-            {
-                "name": "fireball-upright-3"
-            },
-            {
-                "name": "fireball-upright-4"
-            },
-            {
-                "name": "fireball-upright-5"
-            },
-            {
-                "name": "fireball-upright-6"
-            },
-            {
-                "name": "fireball-upright-7"
-            },
-            {
-                "name": "fireball-upright-8"
-            }
-        ],
-        "period": 0.8
-    },
-    "STANDING_UP_LEFT": {
-        "frames": [
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-1"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-2"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-3"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-4"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-5"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-6"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-7"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-upright-8"
-            }
-        ],
-        "period": 0.8
-    },
-    "STANDING_DOWN_LEFT": {
-        "frames": [
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-1"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-2"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-3"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-4"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-5"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-6"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-7"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-downright-8"
-            }
-        ],
-        "period": 0.8
-    },
-    "STANDING_LEFT": {
-        "frames": [
-            {
-                "mirrorh": true,
-                "name": "fireball-right-1"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-right-2"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-right-3"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-right-4"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-right-5"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-right-6"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-right-7"
-            },
-            {
-                "mirrorh": true,
-                "name": "fireball-right-8"
-            }
-        ],
-        "period": 0.8
-    },
-    "STANDING_DOWN_RIGHT": {
-        "frames": [
-            {
-                "name": "fireball-downright-1"
-            },
-            {
-                "name": "fireball-downright-2"
-            },
-            {
-                "name": "fireball-downright-3"
-            },
-            {
-                "name": "fireball-downright-4"
-            },
-            {
-                "name": "fireball-downright-5"
-            },
-            {
-                "name": "fireball-downright-6"
-            },
-            {
-                "name": "fireball-downright-7"
-            },
-            {
-                "name": "fireball-downright-8"
-            }
-        ],
-        "period": 0.8
-    }
+    "STANDING_UP": [
+        {
+            "period": 0.1,
+            "name": "fireball-up-1"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-up-2"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-up-3"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-up-4"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-up-5"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-up-6"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-up-7"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-up-8"
+        }
+    ],
+    "STANDING_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "fireball-right-1"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-right-2"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-right-3"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-right-4"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-right-5"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-right-6"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-right-7"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-right-8"
+        }
+    ],
+    "STANDING_DOWN": [
+        {
+            "period": 0.1,
+            "name": "fireball-down-1"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-down-2"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-down-3"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-down-4"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-down-5"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-down-6"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-down-7"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-down-8"
+        }
+    ],
+    "STANDING_UP_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "fireball-upright-1"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-upright-2"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-upright-3"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-upright-4"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-upright-5"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-upright-6"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-upright-7"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-upright-8"
+        }
+    ],
+    "STANDING_UP_LEFT": [
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-1"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-2"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-3"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-4"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-5"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-6"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-7"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-upright-8"
+        }
+    ],
+    "STANDING_DOWN_LEFT": [
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-1"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-2"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-3"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-4"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-5"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-6"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-7"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-downright-8"
+        }
+    ],
+    "STANDING_LEFT": [
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-1"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-2"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-3"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-4"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-5"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-6"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-7"
+        },
+        {
+            "mirrorh": true,
+            "period": 0.1,
+            "name": "fireball-right-8"
+        }
+    ],
+    "STANDING_DOWN_RIGHT": [
+        {
+            "period": 0.1,
+            "name": "fireball-downright-1"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-downright-2"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-downright-3"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-downright-4"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-downright-5"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-downright-6"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-downright-7"
+        },
+        {
+            "period": 0.1,
+            "name": "fireball-downright-8"
+        }
+    ]
 }

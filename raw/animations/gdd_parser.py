@@ -12,13 +12,15 @@ properties = {}
 result_table = {}
 current_animation = None
 
+def construct_base_frame():
+    current_frame = copy.deepcopy(current_animation['effect'])
+    current_frame['period'] = 1/properties['fps']
+    return current_frame
+
 def finalize_current_animation():
     global current_animation
     if current_animation:
-        result_table[current_animation['name']] = {
-            'period': len(current_animation['frames']) / properties['fps'],
-            'frames': current_animation['frames']
-        }
+        result_table[current_animation['name']] = current_animation['frames']
         current_animation = None
     
 def start_new_animtion(animation_name):
@@ -64,7 +66,7 @@ def parse_ring(input):
     split = input.split(' ', 1)
     name = split[0]
        
-    current_frame = copy.deepcopy(current_animation['effect'])
+    current_frame = construct_base_frame()
     
     import re
     for mod in re.findall(r"\[(.*?)\]", split[1]):
@@ -100,7 +102,7 @@ def parse_chain(input):
     assert(name == "name")
     
     for name in split[1].split(' '):
-        current_frame = copy.deepcopy(current_animation['effect'])
+        current_frame = construct_base_frame()
         current_frame['name'] = name
         current_animation['frames'].append(current_frame)
         
