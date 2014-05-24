@@ -48,7 +48,7 @@ def parse_property(input):
 
 def transform_color(s):
     x = int(s, 16)
-    return (x >> 16) % 256, (x >> 8) % 256, x % 256
+    return (x >> 16) % 256, (x >> 8) % 256, x % 256, 1.0
         
 valueparser = {
     'name': lambda x: x,
@@ -73,7 +73,7 @@ def parse_ring(input):
     
     if 'alpha' in current_frame:
         if 'color' not in current_frame:
-            current_frame['color'] = [1, 1, 1]
+            current_frame['color'] = [1.0, 1.0, 1.0, 1.0]
         current_frame['color'][3] = current_frame['alpha']
         del current_frame['alpha']
         
@@ -112,10 +112,17 @@ syntax_mapping = {
     '%': parse_chain
 }
         
+line_num = 0
 for line in open(args.input):
+    line_num += 1
     command = line.strip()
     if not command: continue
-    syntax_mapping[command[0]](command[1:])
+    try:
+        syntax_mapping[command[0]](command[1:])
+    except Exception, err:
+        print("{0}:{1} - {2}".format(args.input, line_num, str(err)))
+        import sys
+        sys.exit(-1)
         
 finalize_current_animation()
 import json
