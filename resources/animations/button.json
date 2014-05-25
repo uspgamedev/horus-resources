@@ -1,0 +1,14 @@
+{
+    "ON": [
+        {
+            "period": 0.1,
+            "name": "ground-switch-on"
+        }
+    ],
+    "OFF": [
+        {
+            "period": 0.1,
+            "name": "ground-switch-off"
+        }
+    ]
+}

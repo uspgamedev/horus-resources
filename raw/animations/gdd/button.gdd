@@ -1,0 +1,8 @@
+
+# Pre-activated
+$OFF
+%name ground-switch-off
+
+# Post-activated
+$ON
+%name ground-switch-on
