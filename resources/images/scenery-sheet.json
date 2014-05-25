@@ -24,9 +24,25 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":159},
 	"sourceSize": {"w":106,"h":159}
 },
+"ground-switch-off":
+{
+	"frame": {"x":432,"y":2,"w":106,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":54},
+	"sourceSize": {"w":106,"h":54}
+},
+"ground-switch-on":
+{
+	"frame": {"x":540,"y":2,"w":106,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":54},
+	"sourceSize": {"w":106,"h":54}
+},
 "spike-trap":
 {
-	"frame": {"x":432,"y":2,"w":106,"h":159},
+	"frame": {"x":648,"y":2,"w":106,"h":159},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":159},
@@ -34,7 +50,7 @@
 },
 "stairs":
 {
-	"frame": {"x":540,"y":2,"w":153,"h":109},
+	"frame": {"x":756,"y":2,"w":153,"h":109},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":109},
@@ -42,7 +58,7 @@
 },
 "vase":
 {
-	"frame": {"x":695,"y":2,"w":106,"h":106},
+	"frame": {"x":911,"y":2,"w":106,"h":106},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":106},
@@ -53,8 +69,8 @@
 	"version": "1.0",
 	"image": "scenery-sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":803,"h":187},
+	"size": {"w":1019,"h":187},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:0ab1765ecbe0b02a8c8ec971150bbc3f:e6f118383a5b34cbe69c88d0d5363eb8:7a69d5408de49a6af7e27bf9c8acf38f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:2225dde3246c416b23883c960f784771:0a090b8770765724751379e964618136:7a69d5408de49a6af7e27bf9c8acf38f$"
 }
 }
