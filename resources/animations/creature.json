@@ -23,10 +23,6 @@
         {
             "period": 0.1,
             "name": "death-6"
-        },
-        {
-            "period": 0.1,
-            "name": "death-7"
         }
     ],
     "TAKING_DAMAGE": [
@@ -294,10 +290,6 @@
         }
     ],
     "SPAWNING": [
-        {
-            "period": 0.1,
-            "name": "death-7"
-        },
         {
             "period": 0.1,
             "name": "death-6"

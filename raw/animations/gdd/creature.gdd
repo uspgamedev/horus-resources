@@ -5,10 +5,10 @@ $TAKING_DAMAGE
 %name death-1 death-2 death-3
 
 $DYING
-%name death-1 death-2 death-3 death-4 death-5 death-6 death-7
+%name death-1 death-2 death-3 death-4 death-5 death-6
 
 $SPAWNING
-%name death-7 death-6 death-5 death-4 death-3 death-2 death-1
+%name death-6 death-5 death-4 death-3 death-2 death-1
 
 $STANDING_UP
 %name walk-up-1
