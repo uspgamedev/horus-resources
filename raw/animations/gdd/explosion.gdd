@@ -1,0 +1,8 @@
+
+$HERO_FIREBALL_WEAPON
+@fps 30
++effect [position 0 -64] [size 0.5 0.8]
+%name fire-explosion-1 fire-explosion-2 fire-explosion-3 fire-explosion-4 fire-explosion-5 fire-explosion-6 fire-explosion-7 fire-explosion-8 fire-explosion-9 fire-explosion-10 fire-explosion-11 fire-explosion-12
+
+$HERO_EXPLOSION_WEAPON
+%name quake-1 quake-2 quake-3 quake-4 quake-5 quake-6

@@ -1,0 +1,174 @@
+{
+    "HERO_EXPLOSION_WEAPON": [
+        {
+            "period": 0.1,
+            "name": "quake-1"
+        },
+        {
+            "period": 0.1,
+            "name": "quake-2"
+        },
+        {
+            "period": 0.1,
+            "name": "quake-3"
+        },
+        {
+            "period": 0.1,
+            "name": "quake-4"
+        },
+        {
+            "period": 0.1,
+            "name": "quake-5"
+        },
+        {
+            "period": 0.1,
+            "name": "quake-6"
+        }
+    ],
+    "HERO_FIREBALL_WEAPON": [
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-1",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-2",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-3",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-4",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-5",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-6",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-7",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-8",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-9",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-10",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-11",
+            "size": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "position": [
+                0.0,
+                -64.0
+            ],
+            "period": 0.03333333333333333,
+            "name": "fire-explosion-12",
+            "size": [
+                0.5,
+                0.8
+            ]
+        }
+    ]
+}
