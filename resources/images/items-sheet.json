@@ -2,26 +2,26 @@
 
 "life_potion":
 {
-	"frame": {"x":2,"y":2,"w":30,"h":30},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"frame": {"x":64,"y":2,"w":22,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":22,"h":30},
 	"sourceSize": {"w":30,"h":30}
 },
 "mana_potion":
 {
-	"frame": {"x":34,"y":2,"w":30,"h":30},
+	"frame": {"x":2,"y":2,"w":30,"h":28},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":30,"h":28},
 	"sourceSize": {"w":30,"h":30}
 },
 "sight_potion":
 {
-	"frame": {"x":66,"y":2,"w":30,"h":30},
+	"frame": {"x":34,"y":2,"w":28,"h":28},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":28,"h":28},
 	"sourceSize": {"w":30,"h":30}
 }},
 "meta": {
@@ -29,8 +29,8 @@
 	"version": "1.0",
 	"image": "items-sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":98,"h":34},
+	"size": {"w":96,"h":32},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:b8695d78e2247984f8deb4b5cd6f9ba8:71334c47e8be2e1fd12fca47292f7459:4fa3be04e96d9b88bdbcd8f158c3ed06$"
+	"smartupdate": "$TexturePacker:SmartUpdate:255f07b6a956729c0fb46112637272cd:71334c47e8be2e1fd12fca47292f7459:4fa3be04e96d9b88bdbcd8f158c3ed06$"
 }
 }

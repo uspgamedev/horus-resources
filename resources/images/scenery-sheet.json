@@ -2,31 +2,31 @@
 
 "altar":
 {
-	"frame": {"x":2,"y":2,"w":212,"h":183},
+	"frame": {"x":2,"y":2,"w":202,"h":173},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":183},
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":202,"h":173},
 	"sourceSize": {"w":212,"h":183}
 },
 "closed-door":
 {
-	"frame": {"x":216,"y":2,"w":106,"h":183},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":183},
+	"frame": {"x":2,"y":177,"w":66,"h":165},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":9,"w":66,"h":165},
 	"sourceSize": {"w":106,"h":183}
 },
 "dummy-spike-trap":
 {
-	"frame": {"x":324,"y":2,"w":106,"h":159},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":159},
+	"frame": {"x":110,"y":357,"w":106,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":72,"w":106,"h":87},
 	"sourceSize": {"w":106,"h":159}
 },
 "ground-switch-off":
 {
-	"frame": {"x":432,"y":2,"w":106,"h":54},
+	"frame": {"x":2,"y":455,"w":106,"h":54},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":54},
@@ -34,23 +34,23 @@
 },
 "ground-switch-on":
 {
-	"frame": {"x":540,"y":2,"w":106,"h":54},
-	"rotated": false,
+	"frame": {"x":157,"y":249,"w":106,"h":54},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":54},
 	"sourceSize": {"w":106,"h":54}
 },
 "spike-trap":
 {
-	"frame": {"x":648,"y":2,"w":106,"h":159},
+	"frame": {"x":2,"y":356,"w":106,"h":97},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":159},
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":62,"w":106,"h":97},
 	"sourceSize": {"w":106,"h":159}
 },
 "stairs":
 {
-	"frame": {"x":756,"y":2,"w":153,"h":109},
+	"frame": {"x":2,"y":245,"w":153,"h":109},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":109},
@@ -58,10 +58,10 @@
 },
 "vase":
 {
-	"frame": {"x":911,"y":2,"w":106,"h":106},
+	"frame": {"x":169,"y":177,"w":28,"h":70},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":106},
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":31,"w":28,"h":70},
 	"sourceSize": {"w":106,"h":106}
 }},
 "meta": {
@@ -69,8 +69,8 @@
 	"version": "1.0",
 	"image": "scenery-sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":1019,"h":187},
+	"size": {"w":213,"h":512},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:2225dde3246c416b23883c960f784771:0a090b8770765724751379e964618136:7a69d5408de49a6af7e27bf9c8acf38f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:3327d18ae23e82f4e56e1b2f81790896:0a090b8770765724751379e964618136:7a69d5408de49a6af7e27bf9c8acf38f$"
 }
 }
