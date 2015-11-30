@@ -6,7 +6,7 @@ parser.add_argument("input", help="Path to input file")
 parser.add_argument("output", help="Path to output file")
 args = parser.parse_args()
 
-valid_properties = { 'fps' }
+valid_properties = { 'fps', 'repeat' }
 properties = {}
 
 result_table = {}
@@ -20,7 +20,10 @@ def construct_base_frame():
 def finalize_current_animation():
     global current_animation
     if current_animation:
-        result_table[current_animation['name']] = current_animation['frames']
+        result_table[current_animation['name']] = {
+            'frames': current_animation['frames'],
+            'repeat': current_animation['repeat'],
+        }        
         current_animation = None
     
 def start_new_animtion(animation_name):
@@ -30,6 +33,7 @@ def start_new_animtion(animation_name):
     current_animation = {
         'name': animation_name,
         'effect': {},
+        'repeat': 'loop',
         'frames': [],
     }
     
@@ -42,8 +46,10 @@ def parse_property(input):
     name = split[0]
     if name not in valid_properties:
         raise Exception("Unknown property name: " + name)
-    
-    if len(split) > 1:
+        
+    if name == 'repeat':
+        current_animation['repeat'] = split[1]
+    elif len(split) > 1:
         properties[name] = float(split[1])
     else:
         properties[name] = True
@@ -122,9 +128,8 @@ for line in open(args.input):
     try:
         syntax_mapping[command[0]](command[1:])
     except Exception, err:
-        print("{0}:{1} - {2}".format(args.input, line_num, str(err)))
-        import sys
-        sys.exit(-1)
+        print("Error: {0}:{1} - {2}".format(args.input, line_num, str(err)))
+        raise SystemExit(1)
         
 finalize_current_animation()
 import json
